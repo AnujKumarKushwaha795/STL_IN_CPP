@@ -63,7 +63,7 @@ value=value/10;
 
 for(auto value:v3)
 cout<<value<<" ";
-
+// sort();
 
     return 0;
 }
